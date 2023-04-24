@@ -1,3 +1,3 @@
 # Algorithms-and-data-structures
-Various algorithms and data structures written in Python language
+Various algorithms and data structures written in Python language during university course
 
